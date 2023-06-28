@@ -1,4 +1,6 @@
 
 .icon-flight:before { content: '\e800'; } /* '' */
+.icon-open-password:before { content: '\e816'; } /* '' */
 .icon-username:before { content: '\e817'; } /* '' */
 .icon-password:before { content: '\e818'; } /* '' */
+.icon-hide-password:before { content: '\e81d'; } /* '' */
