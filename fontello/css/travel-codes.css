@@ -7,3 +7,5 @@
 .icon-open-password:before { content: '\e805'; } /* '' */
 .icon-password:before { content: '\e806'; } /* '' */
 .icon-username:before { content: '\e807'; } /* '' */
+.icon-info:before { content: '\e808'; } /* '' */
+.icon-warning:before { content: '\e809'; } /* '' */
