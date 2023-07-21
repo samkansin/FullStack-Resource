@@ -1,11 +1,12 @@
 
-.icon-th-list:before { content: '\e800'; } /* '' */
-.icon-th:before { content: '\e801'; } /* '' */
+.icon-th:before { content: '\e800'; } /* '' */
+.icon-th-list:before { content: '\e801'; } /* '' */
 .icon-flight:before { content: '\e802'; } /* '' */
 .icon-search:before { content: '\e803'; } /* '' */
-.icon-hide-password:before { content: '\e804'; } /* '' */
-.icon-open-password:before { content: '\e805'; } /* '' */
-.icon-password:before { content: '\e806'; } /* '' */
-.icon-username:before { content: '\e807'; } /* '' */
-.icon-info:before { content: '\e808'; } /* '' */
-.icon-warning:before { content: '\e809'; } /* '' */
+.icon-username:before { content: '\e804'; } /* '' */
+.icon-info:before { content: '\e805'; } /* '' */
+.icon-warning:before { content: '\e806'; } /* '' */
+.icon-delete:before { content: '\e807'; } /* '' */
+.icon-password:before { content: '\e808'; } /* '' */
+.icon-open-password:before { content: '\e809'; } /* '' */
+.icon-hide-password:before { content: '\e80a'; } /* '' */
