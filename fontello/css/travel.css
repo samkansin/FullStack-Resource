@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'travel';
-  src: url('../font/travel.eot?95005534');
-  src: url('../font/travel.eot?95005534#iefix') format('embedded-opentype'),
-       url('../font/travel.woff2?95005534') format('woff2'),
-       url('../font/travel.woff?95005534') format('woff'),
-       url('../font/travel.ttf?95005534') format('truetype'),
-       url('../font/travel.svg?95005534#travel') format('svg');
+  src: url('../font/travel.eot?48298161');
+  src: url('../font/travel.eot?48298161#iefix') format('embedded-opentype'),
+       url('../font/travel.woff2?48298161') format('woff2'),
+       url('../font/travel.woff?48298161') format('woff'),
+       url('../font/travel.ttf?48298161') format('truetype'),
+       url('../font/travel.svg?48298161#travel') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'travel';
-    src: url('../font/travel.svg?95005534#travel') format('svg');
+    src: url('../font/travel.svg?48298161#travel') format('svg');
   }
 }
 */
@@ -69,3 +69,4 @@
 .icon-upload-image:before { content: '\e80c'; } /* '' */
 .icon-image-add:before { content: '\e80d'; } /* '' */
 .icon-image-remove:before { content: '\e80e'; } /* '' */
+.icon-set-profile-to-image-banner:before { content: '\e80f'; } /* '' */
